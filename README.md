@@ -3,4 +3,4 @@ Implemente uma função que receba um número inteiro positivo e retorne o somat
 
 Instruções:
 
-Basta apenas executar o código e digitar qualquer número inteiro.
+Basta apenas executar o código(teste.dart) e digitar qualquer número inteiro.
